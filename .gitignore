@@ -1,0 +1,30 @@
+
+# backend
+
+backend/.DS_Store
+backend/.env
+backend/.flaskenv
+backend/*.pyc
+backend/*.pyo
+backend/env/
+backend/venv/
+backend/.venv/
+backend/env*
+backend/dist/
+backend/build/
+backend/*.egg
+backend/*.egg-info/
+backend/_mailinglist
+backend/.tox/
+backend/.cache/
+backend/.pytest_cache/
+backend/.idea/
+backend/docs/_build/
+backend/.vscode
+backend/# Coverage reports
+backend/htmlcov/
+backend/.coverage
+backend/.coverage.*
+backend/*,cover
+
+# frontend
