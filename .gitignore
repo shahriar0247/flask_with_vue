@@ -26,5 +26,25 @@ backend/htmlcov/
 backend/.coverage
 backend/.coverage.*
 backend/*,cover
+*pyc
 
 # frontend
+
+frontend/.DS_Store
+frontend/node_modules/
+frontend//dist/
+frontend/# local env files
+frontend/.env.local
+frontend/.env.*.local
+frontend/# Log files
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/# Editor directories and files
+frontend/.idea
+frontend/.vscode
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+frontend/*.sw*
